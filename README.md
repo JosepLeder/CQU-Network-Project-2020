@@ -28,7 +28,7 @@ sudo ./chat 4951 4950
 
 Then you can start chatting
 
-![view](/img/view.png)
+![view](img/view.png)
 
 ## Features
 
